@@ -1,5 +1,6 @@
 {
   "name": "el-fin-de-todo-react-demo",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
