@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>El fin de todo - React App Demo</h1>
+        <h1>Ejemplo usando React</h1>
         <p>
           <code>Aplicación desplegada con fleek.co a través de IPFS</code>
         </p>
